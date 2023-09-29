@@ -1,0 +1,84 @@
+leftnav:
+- identifier: 24d4bf10-9328-183b-ac04-c52903d9144e
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 10
+- identifier: e03990ed-c527-7bb4-9f85-d24f969ef520
+  name: Explaining Why We Solve Problems
+  pageRef: /pages/instructor-insights/explaining-why-we-solve-problems
+  parent: 24d4bf10-9328-183b-ac04-c52903d9144e
+  weight: 20
+- identifier: d8d67c8f-f34d-dce9-cc7d-860bf86da693
+  name: Articulating the Two Parts of Physics Problems
+  pageRef: /pages/instructor-insights/articulating-the-two-parts-of-physics-problems
+  parent: 24d4bf10-9328-183b-ac04-c52903d9144e
+  weight: 30
+- identifier: e0891523-8fa1-473f-d503-b586b18883ce
+  name: Coming Full Circle in Problem Solving
+  pageRef: /pages/instructor-insights/coming-full-circle-in-problem-solving
+  parent: 24d4bf10-9328-183b-ac04-c52903d9144e
+  weight: 40
+- identifier: 081f5669-5913-77e1-8bcc-4148844c2864
+  name: Helping Students Solve Problems
+  pageRef: /pages/instructor-insights/helping-students-solve-problems
+  parent: 24d4bf10-9328-183b-ac04-c52903d9144e
+  weight: 50
+- identifier: 9bc75064-7028-5400-ec17-6b1dde42b3c0
+  name: Common Sources of Confusion
+  pageRef: /pages/instructor-insights/common-sources-of-confusion
+  parent: 24d4bf10-9328-183b-ac04-c52903d9144e
+  weight: 60
+- identifier: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  name: Problem Solving Videos
+  pageRef: /pages/problem-solving-videos/
+  weight: 70
+- identifier: 207c7e08-46c3-a299-8535-75d357717ad6
+  name: Simple Harmonic Motion and Introduction to Problem Solving
+  pageRef: /pages/problem-solving-videos/simple-harmonic-motion-and-introduction-to-problem-solving-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 80
+- identifier: fe5a0c66-1af9-340e-4b31-33217f890c98
+  name: Harmonic Oscillators with Damping
+  pageRef: /pages/problem-solving-videos/harmonic-oscillators-with-damping-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 90
+- identifier: ccd258c9-9e21-f95c-6363-d6ee98034db2
+  name: Driven Harmonic Oscillators
+  pageRef: /pages/problem-solving-videos/driven-harmonic-oscillators-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 100
+- identifier: aa292064-0a88-b394-2f27-c6d5da58e597
+  name: Coupled Oscillators without Damping
+  pageRef: /pages/problem-solving-videos/coupled-oscillators-without-damping-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 110
+- identifier: ba9166b0-db76-b68d-dd88-13f5d5254275
+  name: Traveling Waves without Damping
+  pageRef: /pages/problem-solving-videos/traveling-waves-without-damping-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 120
+- identifier: dd113d06-b7b5-8820-a6a4-bb05b3fc8c7e
+  name: Standing Waves Part I
+  pageRef: /pages/problem-solving-videos/standing-waves-part-i-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 130
+- identifier: 190b5c14-4d3e-ae61-2fdd-55047c189889
+  name: Standing Waves Part II
+  pageRef: /pages/problem-solving-videos/standing-waves-part-ii-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 140
+- identifier: fdd03639-df5a-1302-a784-56591f1294b2
+  name: Electromagnetic Waves in a Vacuum
+  pageRef: /pages/problem-solving-videos/electromagnetic-waves-in-a-vacuum-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 150
+- identifier: 4776ee85-e077-48e5-3b43-8907554c7d5b
+  name: ' Accelerated Charges Radiating Electromagnetic Waves'
+  pageRef: /pages/problem-solving-videos/accelerated-charges-radiating-electromagnetic-waves-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 160
+- identifier: 084bc939-1b65-dcba-d51f-422f082cd5fb
+  name: Interference of Electromagnetic Waves
+  pageRef: /pages/problem-solving-videos/interference-of-electromagnetic-waves-1/
+  parent: 6e73cb1b-2e9f-5c2f-7e71-e7d887c0996b
+  weight: 170
